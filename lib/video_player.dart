@@ -46,7 +46,7 @@ class VideoDemoState extends State<videoDemo>{
 {
   return Scaffold(
   appBar: AppBar(
-  title: Text("nEma"),
+  title: Text("thinkBIG"),
   ),
 body: FutureBuilder(
   future: _initializeVideoPlayerFuture,
