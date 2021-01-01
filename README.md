@@ -1,6 +1,6 @@
-# flutter_app
+# thinkBIG
 
-A new Flutter application.
+An e-learning app build in flutter.
 
 ## Getting Started
 
