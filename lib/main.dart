@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'E-learning app',
+      title: 'thinkBIG',
       theme: ThemeData(
         primarySwatch: Colors.indigo,
       ),
