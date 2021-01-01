@@ -5,7 +5,7 @@ appbar(context){
 
 }
   return AppBar(
-            title: Text("nEma"),
+            title: Text("thinkBIG"),
             backgroundColor:Color(0xff5808e5),
             
              actions: <Widget>[
